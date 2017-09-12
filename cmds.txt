@@ -1,0 +1,251 @@
+    1  touch ~/.boto
+    2  nano .boto 
+    3  python -V
+    4  pip install boto
+    5  apt-get install python-pip
+    6  apt-get update
+    7  apt-get install python-pip
+    8  pip install boto
+    9  ll
+   10  clear
+   11  mkdir
+   12  mkdir python_aws
+   13  nano list_instances.py
+   14  rm -rf  list_instances.py 
+   15  cd python_aws/
+   16  nano list_instances.py
+   17  python list_instances.py 
+   18  nano list_instances.py
+   19  python list_instances.py 
+   20  nano list_instances.py
+   21  python list_instances.py 
+   22  cat list_instances.py
+   23  python list_instances.py 
+   24  nano list_instances.py
+   25  python list_instances.py 
+   26  nano list_instances.py
+   27  python list_instances.py 
+   28  ll\
+   29  ll
+   30  cd python_aws/
+   31  ll
+   32  python list_instances.py 
+   33  ll
+   34  cat .boto
+   35  cd python_aws
+   36  ll
+   37  cat list_instances.py 
+   38  cp list_instances.py list_instances_old.py 
+   39  ll
+   40  nano list_instances.py 
+   41  python list_instances.py 
+   42  nano list_instances.py 
+   43  python list_instances.py 
+   44  nano list_instances.py 
+   45  python list_instances.py 
+   46  nano list_instances.py 
+   47  python list_instances.py 
+   48  nano list_instances.py 
+   49  python list_instances.py 
+   50  nano list_instances.py 
+   51  python list_instances.py 
+   52  nano list_instances.py 
+   53  python list_instances.py 
+   54  nano list_instances.py 
+   55  python list_instances.py 
+   56  cat list_instances.py 
+   57  clear
+   58  python list_instances.py 
+   59  cat list_instances.py 
+   60  nano list_instances.py 
+   61  python list_instances.py 
+   62  cat list_instances.py 
+   63  python list_instances.py 
+   64  nano list_instances.py 
+   65  nano create_instance.py
+   66  python create_instance.py
+   67  nano create_instance.py
+   68  clear
+   69  python create_instance.py
+   70  nano create_instance.py
+   71  python list_instances.py 
+   72  nano terminate_instance.py
+   73  python terminate_instance.py
+   74  nano create_instance.py
+   75  python create_instance.py
+   76  nano terminate_instance.py
+   77  python list_instances.py 
+   78  cp list_instances.py list_instances_new.py
+   79  nano list_instances_new.py 
+   80  python list_instances_new.py 
+   81  nano list_instances_new.py 
+   82  python list_instances_new.py 
+   83  nano list_instances_new.py 
+   84  clear
+   85  python list_instances_new.py 
+   86  python terminate_instance.py
+   87  python list_instances_new.py 
+   88  nano create_instance.py
+   89  python create_instance.py
+   90  nano create_instance.py
+   91  python create_instance.py
+   92  nano create_instance.py
+   93  python create_instance.py
+   94  nano create_instance.py
+   95  python create_instance.py
+   96  nano create_instance.py
+   97  python create_instance.py
+   98  nano create_instance.py
+   99  python create_instance.py
+  100  nano create_instance.py
+  101  python create_instance.py
+  102  nano create_instance.py
+  103  nano terminate_instance.py
+  104  python terminate_instance.py
+  105  nano terminate_instance.py
+  106  python terminate_instance.py
+  107  nano create_instance.py
+  108  clear
+  109  python create_instance.py
+  110  nano create_instance.py
+  111  nano terminate_instance.py 
+  112  nano create_instance.py
+  113  python create_instance.py
+  114  nano terminate_instance.py 
+  115  python terminate_instance.py 
+  116  nano terminate_instance.py 
+  117  python terminate_instance.py 
+  118  nano create_instance.py
+  119  clear
+  120  python create_instance.py
+  121  cat create_instance.py 
+  122  cat terminate_instance.py 
+  123  nano create_instance_region.py
+  124  python create_instance_region.py
+  125  cat list_instances_new.py 
+  126  clear
+  127  ll
+  128  nano terminate_instance.py 
+  129  python terminate_instance.py 
+  130  clear
+  131  ll
+  132  nano create_instance.py 
+  133  cat list_instances_new.py 
+  134  clear
+  135  python list_instances_new.py 
+  136  clear
+  137  ll
+  138  mv list_instances.py list_instances_old1.py
+  139  mv list_instances_new.py list_instances.py
+  140  ll
+  141  clear
+  142  python list_instances.py 
+  143  ll
+  144  clear
+  145  python create_instance_region.py
+  146  nano terminate_instance.py 
+  147  clear
+  148  python terminate_instance.py 
+  149  clear
+  150  ll
+  151  cat terminate_instance.py 
+  152  clear
+  153  ll
+  154  cat create_instance_region.py 
+  155  clear
+  156  cat list_instances.py 
+  157  ll
+  158  mkdir scripts
+  159  cd scripts/
+  160  ll
+  161  nano list_instances.py
+  162  python list_instances.py
+  163  nano create_instance_region.py
+  164  python create_instance_region.py
+  165  nano terminate_instance.py
+  166  python terminate_instance.py
+  167  ll
+  168  cd ..
+  169  ll
+  170  nano terminate_instance.py 
+  171  cat terminate_instance.py 
+  172  python terminate_instance.py 
+  173  exit
+  174  ll
+  175  cd python_aws/
+  176  ll
+  177  cd scripts/
+  178  ll
+  179  python list_instances.py 
+  180  clear
+  181  cd
+  182  ll
+  183  cat .boto
+  184  cd
+  185  cd python_aws/
+  186  cd scripts/
+  187  ll
+  188  python list_instances.py 
+  189  python create_instance_region.py 
+  190  nano create_instance_region.py 
+  191  ll
+  192  cat list_instances.py 
+  193  nano list_instances.py 
+  194  python list_instances.py 
+  195  clear
+  196  ll
+  197  nano create_instance_region.py 
+  198  python create_instance_region.py 
+  199  cat create_instance_region.py 
+  200  cd python_aws/
+  201  ll
+  202  cd scripts/
+  203  ll
+  204  nano terminate_instance.py 
+  205  python terminate_instance.py 
+  206  nano terminate_instance.py 
+  207  python terminate_instance.py 
+  208  ll
+  209  cat .boto 
+  210  cd python_aws/
+  211  ll
+  212  cd scripts/
+  213  ll
+  214  clear
+  215  nano list_instances.py 
+  216  python list_instances.py 
+  217  nano create_instance_region.py 
+  218  python create_instance_region.py 
+  219  nano terminate_instance.py 
+  220  python terminate_instance.py 
+  221  exit
+  222  echo "# PythonAWS" >> README.md
+  223  git init
+  224  apt-get install git
+  225  git init
+  226  apt-get update
+  227  apt-get install git
+  228  git init
+  229  git add README.md
+  230  git commit -m "first commit"
+  231  git remote add origin https://github.com/Randive/PythonAWS.git
+  232  git push -u origin master
+  233  ls
+  234  cd python_aws/
+  235  ls
+  236  git branch --list
+  237  git branch dev
+  238  git branch --list
+  239  git checkout dev
+  240  ls
+  241  git add .
+  242  git commit -m "First Commit" 
+  243  cd scripts/
+  244  ls
+  245  cd ..
+  246  git pull
+  247  git push
+  248  git branch --list
+  249  git push
+  250  cd 
+  251  history >> cmds.txt
