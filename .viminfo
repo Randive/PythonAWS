@@ -21,12 +21,18 @@
 # Registers:
 
 # File marks:
-'0  1  4  ~/cmds.txt
+'0  1  0  ~/.boto
+'1  1  4  ~/cmds.txt
 
 # Jumplist (newest first):
+-'  1  0  ~/.boto
+-'  1  4  ~/cmds.txt
 -'  1  4  ~/cmds.txt
 
 # History of marks within files (newest to oldest):
+
+> ~/.boto
+	"	1	0
 
 > ~/cmds.txt
 	"	1	4
